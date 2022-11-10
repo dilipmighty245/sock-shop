@@ -2,6 +2,7 @@ openapi: 3.0.1
 info:
   title: Payments API for Mazinger
   version: '1.0'
+  name: Pavitra
 servers:
   - url: http://payment.sock-shop
 paths:
